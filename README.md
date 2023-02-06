@@ -1,7 +1,7 @@
  # Activity Generator
  ![enter image description here](https://github.com/ViniSCode/activities-generator/blob/main/activities-generator.png?raw=true)
  
-Welcome to the Bored API Activity Generator Website! This website is designed to provide you with a fun and random activity to do when you're feeling bored.
+Welcome to the Activity Generator Website! This website is designed to provide you with a fun and random activity to do when you're feeling bored.
 
 About the API
 The website uses the Bored API (https://www.boredapi.com/api/activity) to retrieve information about various activities. The API returns three pieces of information about each activity:
