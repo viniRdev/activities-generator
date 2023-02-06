@@ -1,1 +1,1 @@
-# activities-generator
+# Gerador-de-Atividades
